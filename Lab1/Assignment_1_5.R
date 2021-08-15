@@ -1,4 +1,4 @@
-#5. WAP in R to find the sum of n natural numbers without formula.
+#5. WAP in R to find the sum of n natural numbers with formula.
 {
 sumOfN <- function(n) {
   return(n*(n+1)/2) 
