@@ -1,4 +1,4 @@
-//WAP in R to find the highest of three numbers.
+#WAP in R to find the highest of three numbers.
 {
     x <- as.integer(readline(prompt = "Enter first number :"))
     y <- as.integer(readline(prompt = "Enter second number :"))
