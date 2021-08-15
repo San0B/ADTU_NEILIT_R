@@ -1,15 +1,15 @@
 #WAP in R to find the highest of three numbers.
 {
-    x <- as.integer(readline(prompt = "Enter first number :"))
-    y <- as.integer(readline(prompt = "Enter second number :"))
-    z <- as.integer(readline(prompt = "Enter third number :"))
+    a <- as.integer(readline(prompt = "Enter the first number :"))
+    b <- as.integer(readline(prompt = "Enter the second number :"))
+    c <- as.integer(readline(prompt = "Enter the third number :"))
 
-    if (x > y && x > z) {
-      print(paste("Greatest is :", x))
-    } else if (y > z) {
-      print(paste("Greatest is :", y))
+    if (a > b && a > b) {
+      print(paste("The Greatest Number is :", a))
+    } else if (b > c) {
+      print(paste("The Greatest Number is :", b))
     } else{
-      print(paste("Greatest is :", z))
+      print(paste("The Greatest Number is :", c))
     }
 
 }
