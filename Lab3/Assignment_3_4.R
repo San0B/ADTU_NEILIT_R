@@ -1,4 +1,4 @@
-# Create a sample of 100 samples which are incremented by 1.5
+# Create a sample of 100 samples which are incremented by 1.5#
 x <- seq(0,100,by = 1.5)
 
 # Create the binomial distribution.
