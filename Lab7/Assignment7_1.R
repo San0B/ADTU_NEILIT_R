@@ -1,5 +1,5 @@
 # 1. Import any database of transactions of your choice (Groceries dataset may be preferred. It is predefined in R package)
-# (a) Load required R libraries : arules and arulesViz
+# (a) Load required R libraries : arules and arulesViz#
 library(arules)
 library(arulesViz)
 
